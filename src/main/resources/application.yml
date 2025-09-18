@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: income-verification-app
+
+anthropic:
+#  api-key: 
+  base-url: https://api.anthropic.com
+  messages-endpoint: /v1/messages
